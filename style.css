@@ -1,6 +1,13 @@
 /*  GENERAL CSS */
 
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Nunito&family=Poppins:wght@300;400;500;600&family=Russo+One&display=swap');
+
+
 * {
   margin: 0;
   padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
 }
