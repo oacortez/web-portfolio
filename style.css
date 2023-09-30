@@ -268,3 +268,64 @@ What I have accomplished so far in this branch:
 - display name and title 
 - created a button to download resume
 */
+
+/* .about-pic {
+  width: 355px;
+} */
+
+
+/* ABOUT SECTION*/
+
+#about {
+  position: relative;
+}
+
+.about-containers {
+  gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.about-details-container {
+  justify-content: center;
+  flex-direction: column;
+}
+
+.about-containers,
+.about-details-container {
+  display: flex;
+}
+
+.about-pic {
+  border-radius: 2rem;
+  width: 400px;
+  /* This width has to be adjusted later on */
+}
+
+.arrow {
+  right: -5rem;
+  bottom: 2.5rem;
+  position: absolute;
+}
+
+.details-container {
+  padding: 1.5rem;
+  flex: 1;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
+
+.section-container {
+  gap: 4rem;
+  height: 80%;
+}
+
+.section__pic-container {
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+}
+
