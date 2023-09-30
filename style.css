@@ -299,6 +299,7 @@ What I have accomplished so far in this branch:
 .about-pic {
   border-radius: 2rem;
   width: 400px;
+  /* This width has to be adjusted later on */
 }
 
 .arrow {
