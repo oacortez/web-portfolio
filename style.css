@@ -329,3 +329,8 @@ What I have accomplished so far in this branch:
   margin: auto 0;
 }
 
+/* EXPERIENCE SECTION*/
+
+#experience {
+  position: relative;
+}
