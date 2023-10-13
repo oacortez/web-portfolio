@@ -371,3 +371,6 @@ article,
 
 /* PROJECTS */
 
+#projects {
+  position: relative;
+}
