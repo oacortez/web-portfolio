@@ -428,3 +428,8 @@ article,
 .contact-info-container {
   font-size: larger;
 }
+
+.contact-icon {
+  cursor: default;
+  height: 2rem;
+}
