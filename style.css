@@ -431,5 +431,8 @@ article,
 
 .contact-icon {
   cursor: default;
-  height: 2rem;
+}
+
+.email-icon {
+  height: 2.5rem;
 }
