@@ -27,5 +27,8 @@
   .arrow {
     display: none;
   }
-  
+  section,
+  .section-container {
+    height: fit-content;
+  }
 }
