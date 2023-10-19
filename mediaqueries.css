@@ -24,4 +24,8 @@
   .section-container {
     display: block;
   }
+  .arrow {
+    display: none;
+  }
+  
 }
