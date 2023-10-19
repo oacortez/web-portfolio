@@ -92,4 +92,7 @@
     width: 200px;
     /* Not sure if I need this -- it breaks without it */
   }
+  .section__text__p2 {
+    font-size: 1.25rem;
+  }
 }
