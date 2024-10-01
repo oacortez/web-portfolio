@@ -176,6 +176,7 @@ section {
   width: 400px;
   margin: auto 0;
   align-items: center;
+  justify-content: center;
 }
 
 .section__text {
@@ -284,11 +285,16 @@ section {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
 .about-containers,
 .about-details-container {
   display: flex;
+  /* flex-direction: column;
+  justify-content: space-evenly; */
 }
 
 .about-pic {
@@ -447,9 +453,9 @@ p {
 }
 
 .img-profile {
-  /* width: 200px;               */
-  /* height: 200px;              */
+  width: 200px;              
+  height: 200px;             
   border-radius: 50%;        /* Circular crop */
   object-fit: cover;         /* Ensures the image covers the circle */
-  object-position: center; 
+  object-position: top; 
 }
