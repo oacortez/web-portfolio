@@ -284,10 +284,10 @@ section {
 
 .about-details-container {
   justify-content: center;
-  flex-direction: column;
+  /* flex-direction: column; */
   display: flex;
-  flex-direction: column;
   justify-content: space-evenly;
+  flex-direction: column-reverse;
 }
 
 .about-containers,
