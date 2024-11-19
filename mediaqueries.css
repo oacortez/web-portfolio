@@ -65,6 +65,7 @@
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
+    padding: 25px;
   }
   .contact-info-container {
     margin: 5px;
